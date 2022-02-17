@@ -14,5 +14,7 @@
 <strong>HINTS:</strong>
 <ul>
 <p>The game will give you a hint every time you take a wrong guess. For example, supposed the unknown number is number 11 and you put 12, a message will prompt that your guess is too high. This should tell you that your next guess should be lower than the previous one.</p>
-
 </ul>
+
+
+<a href="https://guessmynumber-dom-manipulation.netlify.app/">CLICK HERE TO PLAY</a>
